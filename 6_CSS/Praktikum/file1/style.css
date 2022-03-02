@@ -1,0 +1,31 @@
+body{
+  font-family: 'Slabo 27px', serif;
+  color: white;
+  font-size: 20px;
+}
+.box_merah {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  background-color: red;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+}
+.box_biru {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  background-color: blue;
+  display: inline-block;
+  padding: 20px;
+}
+
+.box_hijau {
+  width: 350px;
+  height: 350px;
+  border-radius: 20px;
+  background-color: green;
+  text-align: center;
+  margin-left: 20px;
+}
