@@ -1,0 +1,10 @@
+Nomor 1 :
+- Pada gambar 1 saya membuat id_anggota pada table keterangan foreign key(FK) atau relationship dengan id.anggota sehingga id_anggota pada table keterangan akan terhubung dengan nama pada table anggota.
+- pada gambar 2 contoh ketika saya menambahkan data pelajaran, nilai, dan status pada table keterangan. masing masing data yang saya masukkan memiliki id_anggota masing - masing yang nantinya akan masuk kedalam nama anggota sesuai id_anggota yang dimasukkan
+- Pada gambar 3 kita mempunyai data table yang berisi 3 anggota yang memiliki id masing - masing
+- Pada gambar 4, 4.1, 4.2 contoh inputan data pada table keterangan tadi akan masuk kedalam tabel data masing masing anggota, jadi jika kita tadi menginputkan id_anggota 1 maka data keterangan tersebut akan masuk kedalam database Budi yang dimana id budi tersebut bernilai 1. begitupun dengan inputan yang lainnya, jika kita memasukkan id_anggota 2 data akan masuk ke table anggota bernama sita karena memiliki id 2, dan begitupun seterusnya
+
+Kesimpulan : dengan penjelasan diatas maka hal yang telah dilakukan merepresentasikan relasi database one to one
+
+Nomor 2 :
+untuk relasi database one to many sudah direpresentasikan pada setiap data table anggota yang memiliki banyak data mata pelajaran yang ada dalam table keterangan, untuk contohnya seperti pada gambar 4, 4.1, 4.2, 
